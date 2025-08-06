@@ -68,7 +68,6 @@ Solid foundations in OOP, UI design, data access, and cross-platform deployment.
 
 - Spanish: Native  
 - English: C1  
-- Italian: Basic
 
 ---
 
